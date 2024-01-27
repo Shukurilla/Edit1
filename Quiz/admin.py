@@ -8,3 +8,8 @@ admin.site.register(QuesModel)
 # d
 
 #Hojiakbar
+
+
+def salom(
+    request print("salom")
+)
